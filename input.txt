@@ -1,0 +1,3 @@
+101|Akhila|akhila@gmail.com|20
+102|Harsha|harsha@gmail.com|21
+103|Ravilravi@gmail.com|19
